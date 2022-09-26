@@ -1,5 +1,7 @@
 # Vefforritun 1, 2022, hópverkefni 1
 
+[Kynning í fyrirlestri](https://youtu.be/AMb-bmaRlU0).
+
 Verkefnið felst í því að smíða vef eftir forskrift.
 
 Gefin er [hönnun í Figma](https://www.figma.com/file/oG7glHy9F872ywateHdVLV/Vefforritun-1%2C-2022%2C-h%C3%B3pverkefni-1). Hægt er að kveikja á grind með View > Layout grids.
