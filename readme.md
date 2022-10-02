@@ -24,6 +24,10 @@ Verkefnið skal unnið í hóp með 3-4 einstaklingum. Hafið samband við kenna
 
 Notast skal við Git og GitHub. Engar zip skrár með kóða ættu að ganga á milli í hópavinnu, heldur á að „committa“ allan kóða og vinna gegnum Git.
 
+Sjást ætti á _commit history_ að allir meðlimir hóps hafi tekið þátt í verkefni.
+
+Útbúa ætti a.m.k. fimm Pull Request (PR) þar sem búið er að fara yfir af öðrum meðlim í hóp.
+
 ## Lýsing á verkefni
 
 `README.md` skrá skal vera í rót verkefnis og innihalda:
@@ -46,13 +50,14 @@ Til að passa upp á samræmi eru skrárnar `.gitignore`, `.gitattributes` og `.
 
 ## Mat
 
+* 10% - Git og GitHub PR eftir forskrift
 * 10% - `README` eftir forskrift, tæki og tól uppsett
-* 15% – Snyrtilegt, gilt (skv. stylelint) CSS/Sass, gilt og aðgengilegt HTML
+* 10% – Snyrtilegt, gilt (skv. stylelint) CSS/Sass, gilt og aðgengilegt HTML
 * 15% – Almennt útlit
 * 15% – Forsíða
 * 15% – Yfirlitssíða
-* 15% – Uppskriftasíða
-* 15% – Almennur skalanleiki
+* 15% – Uppskriftasíða, bæði með mynd og vídeó í haus
+* 10% – Almennur skalanleiki
 
 ## Sett fyrir
 
@@ -84,4 +89,4 @@ Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20
 
 Upprunaleg hönnun eftir [Meghan Regior](https://twitter.com/meghanregior) fyrir verkefni í vefforritun 2016. Flutt í Figma og uppfært af Óla.
 
-> Útgáfa 0.1
+> Útgáfa 0.2 (bæta við um git og PR)
